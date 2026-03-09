@@ -1,0 +1,1 @@
+QT += widgets SOURCES = task5.cpp HEADERS = task5.h TARGET = task5
